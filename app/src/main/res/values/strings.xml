@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">QuizCongo</string>
+    <string name="action_settings">Settings</string>
+    <string name="head_choose">Selectionez un sujet</string>
+
+    <string-array name="topics">
+        <item>Sport</item>
+        <item>Architecture</item>
+        <item>Histoire</item>
+        <item>Actualité</item>
+        <item>Musique</item>
+        <item>Geographie</item>
+        <item>Personages</item>
+    </string-array>
+
+    <string-array name="topicsDescription">
+        <item>Mesurez vos connaissance sur le sport en R D Congo, le pays des champions...</item>
+        <item>Testez vos connaissances sur les monuments et les endroits les plus connus de la R D Congo.</item>
+        <item>Que savez-vous sur l\'histoire de la R D Congo?</item>
+        <item>Une actualité parfois très agitée... Etes-vous a jour?</item>
+        <item>Que savez-vous sur notre musique et nos grands artistes musiciens?</item>
+        <item>Mesurez vos connaissance en geographie exclusivement sur la R C Congo</item>
+        <item>Connaissez-vous nos personnages les plus celèbres? </item>
+    </string-array>
+
+    <string-array name="imageTopic">
+        <item>sportimage</item>
+        <item>mosolee</item>
+        <item>histoireimage</item>
+        <item>newsimage</item>
+        <item>musiqueimage</item>
+        <item>geographieimage</item>
+        <item>personagesimages</item>
+    </string-array>
+
+    <string-array name="questions1">
+        <item>Lors de la CHAN 2016 au Rwanda, l\'equipe Congolaise de football...</item>
+        <item>Question 2</item>
+        <item>Question 3</item>
+        <item>Question 4</item>
+        <item>Question 5</item>
+        <item>Question 6</item>
+        <item>Question 7</item>
+    </string-array>
+
+    <string-array name="reponses1">
+        <item>La medaille d\'or=La medaille de bronze=La medaille d\'argent=Aucune medaille</item>
+        <item>Reponse 2=oipueipwt=*wetyey=*ywy</item>
+        <item>Reponse 3=tuwu=*wtuwt=*uwt</item>
+        <item>Reponse 4=hdsfh=*dfhdfsh=*hdfsh</item>
+        <item>Reponse 5=ghgsdf=*sghg=*hjsg</item>
+        <item>Reponse 6=sghfgt=*gsjgfhsg=*gfs</item>
+        <item>Reponse 7=gfjsg=*gjsj=*gjsj</item>
+    </string-array>
+
+
+</resources>
